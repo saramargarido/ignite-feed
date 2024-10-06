@@ -115,6 +115,10 @@
       }
     }
   }
+
+  & .commentList {
+    margin-top: 2rem;
+  }
 }
 
 .post + .post {
